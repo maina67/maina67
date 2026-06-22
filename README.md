@@ -32,14 +32,14 @@ class JesseMaina:
 
 ## 🚀 Featured Projects
 
-### 🗂️ [CollabFlow](https://github.com/maina67/collabflow) — Team Task Management Platform
+### 🗂️ [CollabFlow](https://github.com/maina67/collabflow) — Team Task Management Platform - https://collabflow-client.vercel.app
 > React · Node.js · PostgreSQL · REST API
 
 A full-stack productivity app where teams create, assign, and track tasks with live completion dashboards and role-based access control.
 
 ---
 
-### 🏎️ [F1 Race Predictor](https://github.com/maina67/f1-predictor) — ML Race Result Model
+### 🏎️ [F1 Race Predictor](https://github.com/maina67/f1-predictor) — ML Race Result Model - https://f1-ml-predictor.streamlit.app/
 > Python · Scikit-learn · Pandas · NumPy · Matplotlib
 
 Machine learning model that predicts Formula 1 finishing positions from qualifying grid data. Tested Random Forest & Gradient Boosting — achieved **70%+ top-3 accuracy** across multiple seasons.
