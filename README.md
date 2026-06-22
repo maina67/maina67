@@ -39,14 +39,14 @@ A full-stack productivity app where teams create, assign, and track tasks with l
 
 ---
 
-### 🏎️ [F1 Race Predictor](https://github.com/maina67/f1-predictor) — ML Race Result Model - https://f1-ml-predictor.streamlit.app/
+### 🏎️ [F1 Race Predictor](https://github.com/maina67/f1-ml-predictor) — ML Race Result Model - https://f1-ml-predictor.streamlit.app/
 > Python · Scikit-learn · Pandas · NumPy · Matplotlib
 
 Machine learning model that predicts Formula 1 finishing positions from qualifying grid data. Tested Random Forest & Gradient Boosting — achieved **70%+ top-3 accuracy** across multiple seasons.
 
 ---
 
-### ₿ [Bitcoin Transaction Backend](https://github.com/maina67/btc-backend) — Blockchain Processing Engine
+### ₿ [Bitcoin Transaction Backend](https://github.com/maina67/africoin-backend) — Blockchain Processing Engine
 > Python · Node.js · REST API · SHA-256 · Cryptography
 
 Backend system for processing and validating Bitcoin transactions — implements UTXO management, transaction signing, fee calculation, and a RESTful API layer for client broadcasts.
